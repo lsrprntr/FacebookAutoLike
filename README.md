@@ -13,3 +13,12 @@ Starting on a facebook group page feed:
 
 -counter of how many likes passed
 -counter of how many failures to reset the above to zero
+
+
+Version 2 
+
+Using facebook keyboard shortcuts
+
+shorter code
+
+less lines
