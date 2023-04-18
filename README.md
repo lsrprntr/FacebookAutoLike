@@ -1,4 +1,4 @@
-# FacebookGhettoAutoLike
+# FacebookAutoLike
 Likes posts on news group feed
 
 Screen dimensions are set to my laptop.
