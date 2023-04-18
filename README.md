@@ -1,7 +1,7 @@
 # FacebookGhettoAutoLike
-Likes posts on group feed
+Likes posts on news group feed
 
-Screen dimensions are set to my personal laptop.
+Screen dimensions are set to my laptop.
 Very dumb process, uses Ctrl+F finder
 
 Starting on a facebook group page feed:
