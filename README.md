@@ -1,8 +1,7 @@
 # FacebookAutoLike
 Likes posts on news group feed
 
-Screen dimensions are set to my laptop.
-Very dumb process, uses Ctrl+F finder
+Screen dimensions are set to personal laptop.
 
 Starting on a facebook group page feed:
 *finds the like button
